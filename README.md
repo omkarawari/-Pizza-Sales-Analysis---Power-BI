@@ -1,7 +1,5 @@
 # 🍕 Pizza Sales Analysis - Power BI Dashboard
 # Project Link - [https://app.powerbi.com/groups/me/reports/1cd7ea3c-4cb8-4f57-bf6d-f09c859dc5f2/51e5f4eaad69aa993a56?redirectedFromSignup=1&experience=power-bi]
-
-## 📌 Overview
 This Power BI project presents an in-depth analysis of Pizza Hut's sales data from **January 2015 to December 2015**. The dashboard provides key insights into revenue trends, best and worst-selling pizzas, and customer ordering patterns.
 
 ## 📊 Key Metrics
